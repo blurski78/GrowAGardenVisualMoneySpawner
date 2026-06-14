@@ -1,0 +1,14 @@
+-- ====================================================
+--   NEBULACRYPT  ::  https://discord.gg/7WxQVbCBzA
+--   Join the Discord for support & updates!
+-- ====================================================
+-- Obfuscated by NebulaCrypt :: HEAVY :: 2026-06-14T21:38:36.556Z
+-- DO NOT EDIT. Re-obfuscate from source.
+local _0OI0Illl1I0lllos={[53949]=41418,[41418]=53949,[95367]=29559};local _OII0Ollll0oljkiq=function(_000II1I1oIlIwvtd,_ollo0o1l11llywlg) return ((_000II1I1oIlIwvtd or 53949)*(_ollo0o1l11llywlg or 1)+_0OI0Illl1I0lllos[53949])%4294967296 end;local _=_OII0Ollll0oljkiq(41418,53949);
+local _ollIoooIOIOOjhlq={[78010]=3189,[3189]=78010,[81199]=81103};local _0Ol1OlOooII1llfp=function(_OOIolO1l10Illlyj,_Il0olIIl0ollerbg) return ((_OOIolO1l10Illlyj or 78010)*(_Il0olIIl0ollerbg or 1)+_ollIoooIOIOOjhlq[78010])%4294967296 end;local _=_0Ol1OlOooII1llfp(3189,78010);
+local _OOO1ooOI0O1llwfp={[68526]=91538,[91538]=68526,[160064]=28220};local _oO11OolOolIIhlll=function(_0l1l1I0l10olvhzo,_1I0ooIo0110Oafjg) return ((_0l1l1I0l10olvhzo or 68526)*(_1I0ooIo0110Oafjg or 1)+_OOO1ooOI0O1llwfp[68526])%4294967296 end;local _=_oO11OolOolIIhlll(91538,68526);
+local _l1OlI11o0llolljs={[17766]=674,[674]=17766,[18440]=18372};local _lollI10l10OInikj=function(_I0I01l00oII0gjjl,_oo0OoIo1o0lolfll) return ((_I0I01l00oII0gjjl or 17766)*(_oo0OoIo1o0lolfll or 1)+_l1OlI11o0llolljs[17766])%4294967296 end;local _=_lollI10l10OInikj(674,17766);
+local _IIOI0l0OOIIIlfqw={[45413]=30040,[30040]=45413,[75453]=50237};local _0o1llOllIIlIhefl=function(_O0IllIoolOOlydrg,_OlIo0OOOO0Olymdc) return ((_O0IllIoolOOlydrg or 45413)*(_OlIo0OOOO0Olymdc or 1)+_IIOI0l0OOIIIlfqw[45413])%4294967296 end;local _=_0o1llOllIIlIhefl(30040,45413);
+local _looI0O0l11Olxoeq={[58736]=26126,[26126]=58736,[84862]=33662};local _0OOl0IoOlO1Okkqu=function(_IOoollolIIllcknd,_0olol1loIl0Illmf) return ((_IOoollolIIllcknd or 58736)*(_0olol1loIl0Illmf or 1)+_looI0O0l11Olxoeq[58736])%4294967296 end;local _=_0OOl0IoOlO1Okkqu(26126,58736);
+local _0ll0l0O0IlI0lqxt={[86613]=36317,[36317]=86613,[122930]=122760};local _llIlIolI00I0ryrl=function(_llOlo10l100lyohl,_11o01oIlO0I0seel) return ((_llOlo10l100lyohl or 86613)*(_11o01oIlO0I0seel or 1)+_0ll0l0O0IlI0lqxt[86613])%4294967296 end;local _=_llIlIolI00I0ryrl(36317,86613);
+local _OoO0olIIO0O1lrly={[34072]=26931,[26931]=34072,[61003]=60459};local _1oO0lIOo1IIIbill=function(_IooIlIlI110lbpls,_lIIIollOIoolhtln) return ((_IooIlIlI110lbpls or 34072)*(_lIIIollOIoolhtln or 1)+_OoO0olIIO0O1lrly[34072])%4294967296 end;local _=_1oO0lIOo1IIIbill(26931,34072);
